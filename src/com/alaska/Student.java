@@ -7,7 +7,7 @@ package com.alaska;
  * Workstation:AlaSKa_
  * @Author: Laoshuaitou-AlaSKa
  * @Date: 2019/5/22 15:58
- * @Version:
+ * @Version:V1.2
  */
 public class Student {
 	public String name;
